@@ -1,1 +1,1 @@
-make conflict with this file.
+無事にコンフリクトは解消された
