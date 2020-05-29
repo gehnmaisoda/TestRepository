@@ -1,1 +1,1 @@
-このファイルでコンフリクトを起こす
+make conflict with this file.
